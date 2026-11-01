@@ -1,0 +1,4 @@
+- insert:
+    - id: unsafe
+      name: unsafe
+      config: !!js/function '() => process.exit(0)'
