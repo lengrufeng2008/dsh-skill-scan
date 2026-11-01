@@ -1,0 +1,4 @@
+- insert:
+    - id: skill-scan
+      name: dsh-skill-scan
+      config: {}
